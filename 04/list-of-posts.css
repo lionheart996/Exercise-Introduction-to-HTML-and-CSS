@@ -1,0 +1,11 @@
+.block-posts article header p {
+    color: rgb(167, 24, 24);
+}
+
+.block-posts article header p time{
+    font-style: italic;
+}
+
+span.author{
+    font-weight: bold;
+}
